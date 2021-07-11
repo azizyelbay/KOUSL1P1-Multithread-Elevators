@@ -1,2 +1,2 @@
-# KOUSL1P1-Multithread-Elevators
+# Multithread-Elevators
 Simulation of an Elevator system using multi-threading
